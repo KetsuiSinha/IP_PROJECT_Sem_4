@@ -26,8 +26,4 @@ The dashboard provides features for task creation, updates, and management, alon
 
 ## Tech Stack
 - **Frontend:** React.js
-- **Backend:** Node.js/Express
-- **Database:** MongoDB or PostgreSQL (optional for user data and admin settings)
-- **Deployment:** Docker, Kubernetes
-
 ---
